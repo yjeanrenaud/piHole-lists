@@ -1,0 +1,111 @@
+id,type,domain,comment
+1,0,clients4.google.com,Google (Maps, YouTube usw)
+2,0,clients2.google.com,Google (Maps, YouTube usw)
+3,0,s.youtube.com,YouTube History
+4,0,video-stats.l.google.com,YouTube History
+5,0,android.clients.google.com,Google Play
+6,0,0.client-channel.google.com,Google Play
+7,0,2.android.pool.ntp.org,Google Play
+8,0,googleapis.l.google.com,Gmail
+9,0,a-msedge.net,Windows 10 Updates
+10,0,slscr.update.microsoft.com,Windows 10 Updates
+11,0,v10.vortex-win.data.microsoft.com,Windows 10 Updates
+12,0,settings-win.data.microsoft.com,Windows 10 Updates
+13,0,www.msftncsi.com,"Windows 10 &ndash, Internet Verbindungs Pr&uuml,fung"
+14,0,msftncsi.com,"Windows 10 &ndash, Internet Verbindungs Pr&uuml,fung"
+15,0,ipv6.msftncsi.com,"Windows 10 &ndash, Internet Verbindungs Pr&uuml,fung"
+16,0,outlook.office365.com,Microsoft Web Pages
+17,0,products.office.com,Microsoft Web Pages
+18,0,c.s-microsoft.com,Microsoft Web Pages
+19,0,i.s-microsoft.com,Microsoft Web Pages
+20,0,login.live.com,Microsoft Web Pages
+21,0,login.microsoftonline.com,Microsoft Web Pages
+22,0,dl.delivery.mp.microsoft.com,Microsoft Store (Windows Store)
+23,0,geo-prod.do.dsp.mp.microsoft.com,Microsoft Store (Windows Store)
+24,0,displaycatalog.mp.microsoft.com,Microsoft Store (Windows Store)
+25,0,s.gateway.messenger.live.com,Skype
+26,0,client-s.gateway.messenger.live.com,Skype
+27,0,ui.skype.com,Skype
+28,0,pricelist.skype.com,Skype
+29,0,apps.skype.com,Skype
+30,0,m.hotmail.com,Skype
+31,0,sa.symcb.com,Skype
+32,0,s1.symcb.com,Skype
+33,0,s2.symcb.com,Skype
+34,0,s3.symcb.com,Skype
+35,0,s4.symcb.com,Skype
+36,0,s5.symcb.com,Skype
+37,0,officeclient.microsoft.com,Microsoft Office
+38,0,itunes.apple.com,Apple Music
+39,0,s.mzstatic.com,Apple Music
+40,0,appleid.apple.com,Apple ID
+41,0,captive.apple.com,Apple iOS
+42,0,gsp1.apple.com,Apple iOS
+43,0,www.apple.com,Apple iOS
+44,0,www.appleiphonecell.com,Apple iOS
+45,0,www.bit.ly,
+46,0,bit.ly,
+47,0,ow.ly,
+48,0,tinyurl.com,
+49,0,adfoc.us,
+50,0,dl.dropboxusercontent.com,dropbox
+51,0,ns1.dropbox.com,dropbox
+52,0,ns2.dropbox.com,dropbox
+53,0,dl.google.com,Google Chrome (Updates unter Ubuntu)
+54,0,plex.tv,plex.tv
+55,0,tvdb2.plex.tv,plex.tv
+56,0,pubsub.plex.bz,plex.tv
+57,0,proxy.plex.bz,plex.tv
+58,0,proxy02.pop.plex.bz,plex.tv
+59,0,cpms.spop10.ams.plex.bz,plex.tv
+60,0,meta-db-worker02.pop.ric.plex.bz,plex.tv
+61,0,meta.plex.bz,plex.tv
+62,0,tvthemes.plexapp.com.cdn.cloudflare.net,plex.tv
+63,0,tvthemes.plexapp.com,plex.tv
+64,0,106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services,plex.tv
+65,0,meta.plex.tv,plex.tv
+66,0,cpms35.spop10.ams.plex.bz,plex.tv
+67,0,proxy.plex.tv,plex.tv
+68,0,metrics.plex.tv,plex.tv
+69,0,pubsub.plex.tv,plex.tv
+70,0,status.plex.tv,plex.tv
+71,0,www.plex.tv,plex.tv
+72,0,node.plexapp.com,plex.tv
+73,0,nine.plugins.plexapp.com,plex.tv
+74,0,staging.plex.tv,plex.tv
+75,0,app.plex.tv,plex.tv
+76,0,o1.email.plex.tv,plex.tv
+77,0,o2.sg0.plex.tv,plex.tv
+78,0,dashboard.plex.tv,plex.tv
+79,0,thetvdb.com,plex.tv
+80,0,themoviedb.com,plex.tv
+81,0,spclient.wg.spotify.com,spotify
+82,0,apresolve.spotify.com,spotify
+84,1,click.mailing.planetc.co,mailtracking
+85,0,tom.vgwort.de,Added from Query Log
+86,3,(\.|^)symplr\.de$,werbung klamm
+87,1,www.googletagmanager.com,Google Tag Manager
+88,0,en.wikipedia.org,
+89,1,xtag.cdn-solution.net,
+90,0,media.tech.lgbt,
+91,2,(\.|^)tech\.lgbt$,
+92,2,(\.|^)iot\.eu-west-1\.amazonaws\.com$,Blueair IOT Server 
+93,0,www.stackoverflow.com,
+94,0,stackoverflow.com,
+95,2,(\.|^)api\.telegram\.org$,telegram api
+96,0,teams.events.data.microsoft.com,teams events
+97,0,www.bing.com,bing search
+99,3,(\.|^)atmrum\.net$,azure tracker
+100,3,(\.|^)footprintdns\.com$,azure tracker
+102,0,g.live.com,Backup bitlocker recovery key to Microsoft account
+103,0,v10.events.data.microsoft.com,Xbox Live Achievements (confirmed by Microsoft)
+104,0,v20.events.data.microsoft.com,Xbox Live Achievements (confirmed by Microsoft)
+105,2,(\.|^)github\.com$,
+106,2,(\.|^)youtube\.com$,
+107,3,(\.|^)intercom-mail\.com$,
+108,3,(\.|^)vidcrunch\.com$,
+109,0,accounts.google.com,
+110,0,link.springer.com,
+111,0,ssl.marfeelcdn.com,
+112,0,reolink.com,
+113,0,api.switch-bot.com,
