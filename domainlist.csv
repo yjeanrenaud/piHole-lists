@@ -11,9 +11,9 @@ id,type,domain,comment
 10,0,slscr.update.microsoft.com,Windows 10 Updates
 11,0,v10.vortex-win.data.microsoft.com,Windows 10 Updates
 12,0,settings-win.data.microsoft.com,Windows 10 Updates
-13,0,www.msftncsi.com,"Windows 10 &ndash, Internet Verbindungs Pr&uuml,fung"
-14,0,msftncsi.com,"Windows 10 &ndash, Internet Verbindungs Pr&uuml,fung"
-15,0,ipv6.msftncsi.com,"Windows 10 &ndash, Internet Verbindungs Pr&uuml,fung"
+13,0,www.msftncsi.com,"Windows 10 &ndash, Internet connection test"
+14,0,msftncsi.com,"Windows 10 &ndash, Internet connection test"
+15,0,ipv6.msftncsi.com,"Windows 10 &ndash, Internet connection test"
 16,0,outlook.office365.com,Microsoft Web Pages
 17,0,products.office.com,Microsoft Web Pages
 18,0,c.s-microsoft.com,Microsoft Web Pages
@@ -82,13 +82,10 @@ id,type,domain,comment
 81,0,spclient.wg.spotify.com,spotify
 82,0,apresolve.spotify.com,spotify
 84,1,click.mailing.planetc.co,mailtracking
-85,0,tom.vgwort.de,Added from Query Log
 86,3,(\.|^)symplr\.de$,werbung klamm
 87,1,www.googletagmanager.com,Google Tag Manager
 88,0,en.wikipedia.org,
 89,1,xtag.cdn-solution.net,
-90,0,media.tech.lgbt,
-91,2,(\.|^)tech\.lgbt$,
 92,2,(\.|^)iot\.eu-west-1\.amazonaws\.com$,Blueair IOT Server 
 93,0,www.stackoverflow.com,
 94,0,stackoverflow.com,
@@ -105,7 +102,3 @@ id,type,domain,comment
 107,3,(\.|^)intercom-mail\.com$,
 108,3,(\.|^)vidcrunch\.com$,
 109,0,accounts.google.com,
-110,0,link.springer.com,
-111,0,ssl.marfeelcdn.com,
-112,0,reolink.com,
-113,0,api.switch-bot.com,
