@@ -1,5 +1,5 @@
 # piHole-lists
-I collect the addresses of ad-blocking, phishing and telemtry lists here for [Pi-Hole installations](https://github.com/pi-hole).
+I collect the addresses of ad-blocking, phishing and telemetry lists here for [Pi-Hole installations](https://github.com/pi-hole).
 ## adlists.csv
 The file [adlists.csv](https://github.com/yjeanrenaud/piHole-lists/blob/main/adlists.csv) contains URLs of ads and telemetry lists, especially for Windows machines, that I tend to block in my networks using [Pi-hole](https://github.com/pi-hole). They sum up to about 2 million domains.
 ## domainlist.csv
