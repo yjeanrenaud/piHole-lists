@@ -1,6 +1,6 @@
 id,type,domain,comment
-1,0,clients4.google.com,Google (Maps, YouTube usw)
-2,0,clients2.google.com,Google (Maps, YouTube usw)
+1,0,clients4.google.com,"Google (Maps, YouTube usw)"
+2,0,clients2.google.com,"Google (Maps, YouTube usw)"
 3,0,s.youtube.com,YouTube History
 4,0,video-stats.l.google.com,YouTube History
 5,0,android.clients.google.com,Google Play
