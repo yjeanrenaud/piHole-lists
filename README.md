@@ -1,6 +1,24 @@
 # piHole-lists
 I collect the addresses of ad-blocking, phishing and telemetry lists here for [Pi-Hole installations](https://github.com/pi-hole).
-
+## why?
+Because piHole has got a Feature called Teleporter to export and import settings, but the export includes *all* settings, which I usually do not want to share. Hence, I export the lists dircetly from pi-hole's sqlite:
+```
+sudo sqlite3 -header -csv /etc/pihole/gravity.db \
+  "SELECT address, enabled, comment FROM adlist;" \
+  > adlists.csv
+```
+and
+```
+sudo sqlite3 -header -csv /etc/pihole/gravity.db \
+  "SELECT domain,
+     CASE type
+       WHEN 0 THEN 'exact_allow'
+       WHEN 1 THEN 'exact_deny'
+       WHEN 2 THEN 'regex_allow'
+       WHEN 3 THEN 'regex_deny'
+     END AS type, enabled, COALESCE(comment, '') AS comment
+   FROM domainlist ORDER BY type, domain;" > domainlist.csv
+```  
 ## adlists.csv
 The file [adlists.csv](https://github.com/yjeanrenaud/piHole-lists/blob/main/adlists.csv) contains URLs of ads and telemetry lists, especially for Windows machines, that I tend to block in my networks using [Pi-hole](https://github.com/pi-hole). They sum up to about 2 million domains.
 
@@ -13,10 +31,10 @@ The type column
 - 2: Allowed with wildcards/regex
 - 3: Blocked with wildcards/regex
 
-# How to use
+## How to use
 ~~You can't import them to your Pi-hole. It's Teleport Feature works differently.~~ I added [a small Python3-script to import these csv-files to piHole](pihole_import.py) starting from v6. Use at own risk! Or you may just open the csv files in the speadsheet app at your discretion. You can even just look at the tables here on GitHub. Then, copy the entries to your Pi-hole configuration. This way, you also may double-check if you are happy with these entries.
 
 Feel free to use, adapt or extend these lists. No warranty, liability or claims whatsoever.
 
-# License 
+## License 
 Licensed under [GNU GENERAL PUBLIC LICENSE (GPL 3.0)](LICENSE)
