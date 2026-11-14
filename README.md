@@ -19,4 +19,4 @@ The type column
 Feel free to use, adapt or extend these lists. No warranty, liability or claims whatsoever.
 
 # License 
-Licensed under [GNU GENERAL PUBLIC LICENSE (A-GPL 3.0)](LICENSE)
+Licensed under [GNU GENERAL PUBLIC LICENSE (GPL 3.0)](LICENSE)
