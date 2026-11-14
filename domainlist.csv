@@ -1,114 +1,114 @@
 domain,type,enabled,comment
-clients4.google.com,0,1,"Google (Maps, YouTube usw)"
-clients2.google.com,0,1,"Google (Maps, YouTube usw)"
-s.youtube.com,0,1,"YouTube History"
-video-stats.l.google.com,0,1,"YouTube History"
-android.clients.google.com,0,1,"Google Play"
-0.client-channel.google.com,0,1,"Google Play"
-2.android.pool.ntp.org,0,1,"Google Play"
-googleapis.l.google.com,0,1,Gmail
-a-msedge.net,0,1,"Windows 10 Updates"
-slscr.update.microsoft.com,0,1,"Windows 10 Updates"
-v10.vortex-win.data.microsoft.com,0,1,"Windows 10 Updates"
-settings-win.data.microsoft.com,0,1,"Windows 10 Updates"
-www.msftncsi.com,0,1,"Windows 10 &ndash; Internet Verbindungs Pr&uuml;fung"
-msftncsi.com,0,1,"Windows 10 &ndash; Internet Verbindungs Pr&uuml;fung"
-ipv6.msftncsi.com,0,1,"Windows 10 &ndash; Internet Verbindungs Pr&uuml;fung"
-outlook.office365.com,0,1,"Microsoft Web Pages"
-products.office.com,0,1,"Microsoft Web Pages"
-c.s-microsoft.com,0,1,"Microsoft Web Pages"
-i.s-microsoft.com,0,1,"Microsoft Web Pages"
-login.live.com,0,1,"Microsoft Web Pages"
-login.microsoftonline.com,0,1,"Microsoft Web Pages"
-dl.delivery.mp.microsoft.com,0,1,"Microsoft Store (Windows Store)"
-geo-prod.do.dsp.mp.microsoft.com,0,1,"Microsoft Store (Windows Store)"
-displaycatalog.mp.microsoft.com,0,1,"Microsoft Store (Windows Store)"
-s.gateway.messenger.live.com,0,1,Skype
-client-s.gateway.messenger.live.com,0,1,Skype
-ui.skype.com,0,1,Skype
-pricelist.skype.com,0,1,Skype
-apps.skype.com,0,1,Skype
-m.hotmail.com,0,1,Skype
-sa.symcb.com,0,1,Skype
-s1.symcb.com,0,1,Skype
-s2.symcb.com,0,1,Skype
-s3.symcb.com,0,1,Skype
-s4.symcb.com,0,1,Skype
-s5.symcb.com,0,1,Skype
-officeclient.microsoft.com,0,1,"Microsoft Office"
-itunes.apple.com,0,1,"Apple Music"
-s.mzstatic.com,0,1,"Apple Music"
-appleid.apple.com,0,1,"Apple ID"
-captive.apple.com,0,1,"Apple iOS"
-gsp1.apple.com,0,1,"Apple iOS"
-www.apple.com,0,1,"Apple iOS"
-www.appleiphonecell.com,0,1,"Apple iOS"
-www.bit.ly,0,1,
-bit.ly,0,1,
-ow.ly,0,1,
-tinyurl.com,0,1,
-adfoc.us,0,1,
-dl.dropboxusercontent.com,0,1,dropbox
-ns1.dropbox.com,0,1,dropbox
-ns2.dropbox.com,0,1,dropbox
-dl.google.com,0,1,"Google Chrome (Updates unter Ubuntu)"
-plex.tv,0,1,plex.tv
-tvdb2.plex.tv,0,1,plex.tv
-pubsub.plex.bz,0,1,plex.tv
-proxy.plex.bz,0,1,plex.tv
-proxy02.pop.plex.bz,0,1,plex.tv
-cpms.spop10.ams.plex.bz,0,1,plex.tv
-meta-db-worker02.pop.ric.plex.bz,0,1,plex.tv
-meta.plex.bz,0,1,plex.tv
-tvthemes.plexapp.com.cdn.cloudflare.net,0,1,plex.tv
-tvthemes.plexapp.com,0,1,plex.tv
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services,0,1,plex.tv
-meta.plex.tv,0,1,plex.tv
-cpms35.spop10.ams.plex.bz,0,1,plex.tv
-proxy.plex.tv,0,1,plex.tv
-metrics.plex.tv,0,1,plex.tv
-pubsub.plex.tv,0,1,plex.tv
-status.plex.tv,0,1,plex.tv
-www.plex.tv,0,1,plex.tv
-node.plexapp.com,0,1,plex.tv
-nine.plugins.plexapp.com,0,1,plex.tv
-staging.plex.tv,0,1,plex.tv
-app.plex.tv,0,1,plex.tv
-o1.email.plex.tv,0,1,plex.tv
-o2.sg0.plex.tv,0,1,plex.tv
-dashboard.plex.tv,0,1,plex.tv
-thetvdb.com,0,1,plex.tv
-themoviedb.com,0,1,plex.tv
-spclient.wg.spotify.com,0,1,spotify
-apresolve.spotify.com,0,1,spotify
-click.mailing.planetc.co,1,1,mailtracking
-tom.vgwort.de,0,1,"Added from Query Log"
-www.googletagmanager.com,1,1,"Google Tag Manager"
-en.wikipedia.org,0,1,
-xtag.cdn-solution.net,1,1,
-media.tech.lgbt,0,1,
-(\.|^)tech\.lgbt$,2,1,
-(\.|^)iot\.eu-west-1\.amazonaws\.com$,2,1,"Blueair IOT Server "
-www.stackoverflow.com,0,1,
-stackoverflow.com,0,1,
-(\.|^)api\.telegram\.org$,2,1,"telegram api"
-teams.events.data.microsoft.com,0,1,"teams events"
-www.bing.com,0,1,"bing search"
-g.live.com,0,1,"Backup bitlocker recovery key to Microsoft account"
-v10.events.data.microsoft.com,0,1,"Xbox Live Achievements (confirmed by Microsoft)"
-v20.events.data.microsoft.com,0,1,"Xbox Live Achievements (confirmed by Microsoft)"
-(\.|^)github\.com$,2,1,
-(\.|^)youtube\.com$,2,1,
-accounts.google.com,0,1,
-link.springer.com,0,1,
-(\.|^)reolink\.com$,2,1,
-ssl.marfeelcdn.com,0,1,
-api.switch-bot.com,0,1,
-api-e.ecoflow.com,0,1,ecoflow
-sentry-eu.ecoflow.com,0,1,ecoflow
-mqtt-e.ecoflow.com,0,1,ecoflow
-r.mail.civey.com,0,1,
-cdn.dcloud.net.cn,0,0,kokoni
-android.bugly.qq.com,0,0,kokoni
-(\.|^)mikrojobs\.de$,3,1,
-(\.|^)bsky\.app$,2,1,
+0.client-channel.google.com,exact_allow,1,"Google Play"
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services,exact_allow,1,plex.tv
+2.android.pool.ntp.org,exact_allow,1,"Google Play"
+a-msedge.net,exact_allow,1,"Windows 10 Updates"
+accounts.google.com,exact_allow,1,""
+adfoc.us,exact_allow,1,""
+android.bugly.qq.com,exact_allow,0,kokoni
+android.clients.google.com,exact_allow,1,"Google Play"
+api-e.ecoflow.com,exact_allow,1,ecoflow
+api.switch-bot.com,exact_allow,1,""
+app.plex.tv,exact_allow,1,plex.tv
+appleid.apple.com,exact_allow,1,"Apple ID"
+apps.skype.com,exact_allow,1,Skype
+apresolve.spotify.com,exact_allow,1,spotify
+bit.ly,exact_allow,1,""
+c.s-microsoft.com,exact_allow,1,"Microsoft Web Pages"
+captive.apple.com,exact_allow,1,"Apple iOS"
+cdn.dcloud.net.cn,exact_allow,0,kokoni
+client-s.gateway.messenger.live.com,exact_allow,1,Skype
+clients2.google.com,exact_allow,1,"Google (Maps, YouTube usw)"
+clients4.google.com,exact_allow,1,"Google (Maps, YouTube usw)"
+cpms.spop10.ams.plex.bz,exact_allow,1,plex.tv
+cpms35.spop10.ams.plex.bz,exact_allow,1,plex.tv
+dashboard.plex.tv,exact_allow,1,plex.tv
+displaycatalog.mp.microsoft.com,exact_allow,1,"Microsoft Store (Windows Store)"
+dl.delivery.mp.microsoft.com,exact_allow,1,"Microsoft Store (Windows Store)"
+dl.dropboxusercontent.com,exact_allow,1,dropbox
+dl.google.com,exact_allow,1,"Google Chrome (Updates unter Ubuntu)"
+en.wikipedia.org,exact_allow,1,""
+g.live.com,exact_allow,1,"Backup bitlocker recovery key to Microsoft account"
+geo-prod.do.dsp.mp.microsoft.com,exact_allow,1,"Microsoft Store (Windows Store)"
+googleapis.l.google.com,exact_allow,1,Gmail
+gsp1.apple.com,exact_allow,1,"Apple iOS"
+i.s-microsoft.com,exact_allow,1,"Microsoft Web Pages"
+ipv6.msftncsi.com,exact_allow,1,"Windows 10 &ndash; Internet Verbindungs Pr&uuml;fung"
+itunes.apple.com,exact_allow,1,"Apple Music"
+link.springer.com,exact_allow,1,""
+login.live.com,exact_allow,1,"Microsoft Web Pages"
+login.microsoftonline.com,exact_allow,1,"Microsoft Web Pages"
+m.hotmail.com,exact_allow,1,Skype
+media.tech.lgbt,exact_allow,1,""
+meta-db-worker02.pop.ric.plex.bz,exact_allow,1,plex.tv
+meta.plex.bz,exact_allow,1,plex.tv
+meta.plex.tv,exact_allow,1,plex.tv
+metrics.plex.tv,exact_allow,1,plex.tv
+mqtt-e.ecoflow.com,exact_allow,1,ecoflow
+msftncsi.com,exact_allow,1,"Windows 10 &ndash; Internet Verbindungs Pr&uuml;fung"
+nine.plugins.plexapp.com,exact_allow,1,plex.tv
+node.plexapp.com,exact_allow,1,plex.tv
+ns1.dropbox.com,exact_allow,1,dropbox
+ns2.dropbox.com,exact_allow,1,dropbox
+o1.email.plex.tv,exact_allow,1,plex.tv
+o2.sg0.plex.tv,exact_allow,1,plex.tv
+officeclient.microsoft.com,exact_allow,1,"Microsoft Office"
+outlook.office365.com,exact_allow,1,"Microsoft Web Pages"
+ow.ly,exact_allow,1,""
+plex.tv,exact_allow,1,plex.tv
+pricelist.skype.com,exact_allow,1,Skype
+products.office.com,exact_allow,1,"Microsoft Web Pages"
+proxy.plex.bz,exact_allow,1,plex.tv
+proxy.plex.tv,exact_allow,1,plex.tv
+proxy02.pop.plex.bz,exact_allow,1,plex.tv
+pubsub.plex.bz,exact_allow,1,plex.tv
+pubsub.plex.tv,exact_allow,1,plex.tv
+r.mail.civey.com,exact_allow,1,""
+s.gateway.messenger.live.com,exact_allow,1,Skype
+s.mzstatic.com,exact_allow,1,"Apple Music"
+s.youtube.com,exact_allow,1,"YouTube History"
+s1.symcb.com,exact_allow,1,Skype
+s2.symcb.com,exact_allow,1,Skype
+s3.symcb.com,exact_allow,1,Skype
+s4.symcb.com,exact_allow,1,Skype
+s5.symcb.com,exact_allow,1,Skype
+sa.symcb.com,exact_allow,1,Skype
+sentry-eu.ecoflow.com,exact_allow,1,ecoflow
+settings-win.data.microsoft.com,exact_allow,1,"Windows 10 Updates"
+slscr.update.microsoft.com,exact_allow,1,"Windows 10 Updates"
+spclient.wg.spotify.com,exact_allow,1,spotify
+ssl.marfeelcdn.com,exact_allow,1,""
+stackoverflow.com,exact_allow,1,""
+staging.plex.tv,exact_allow,1,plex.tv
+status.plex.tv,exact_allow,1,plex.tv
+teams.events.data.microsoft.com,exact_allow,1,"teams events"
+themoviedb.com,exact_allow,1,plex.tv
+thetvdb.com,exact_allow,1,plex.tv
+tinyurl.com,exact_allow,1,""
+tom.vgwort.de,exact_allow,1,"Added from Query Log"
+tvdb2.plex.tv,exact_allow,1,plex.tv
+tvthemes.plexapp.com,exact_allow,1,plex.tv
+tvthemes.plexapp.com.cdn.cloudflare.net,exact_allow,1,plex.tv
+ui.skype.com,exact_allow,1,Skype
+v10.events.data.microsoft.com,exact_allow,1,"Xbox Live Achievements (confirmed by Microsoft)"
+v10.vortex-win.data.microsoft.com,exact_allow,1,"Windows 10 Updates"
+v20.events.data.microsoft.com,exact_allow,1,"Xbox Live Achievements (confirmed by Microsoft)"
+video-stats.l.google.com,exact_allow,1,"YouTube History"
+www.apple.com,exact_allow,1,"Apple iOS"
+www.appleiphonecell.com,exact_allow,1,"Apple iOS"
+www.bing.com,exact_allow,1,"bing search"
+www.bit.ly,exact_allow,1,""
+www.msftncsi.com,exact_allow,1,"Windows 10 &ndash; Internet Verbindungs Pr&uuml;fung"
+www.plex.tv,exact_allow,1,plex.tv
+www.stackoverflow.com,exact_allow,1,""
+click.mailing.planetc.co,exact_deny,1,mailtracking
+www.googletagmanager.com,exact_deny,1,"Google Tag Manager"
+xtag.cdn-solution.net,exact_deny,1,""
+(\.|^)api\.telegram\.org$,regex_allow,1,"telegram api"
+(\.|^)bsky\.app$,regex_allow,1,""
+(\.|^)github\.com$,regex_allow,1,""
+(\.|^)iot\.eu-west-1\.amazonaws\.com$,regex_allow,1,"Blueair IOT Server "
+(\.|^)reolink\.com$,regex_allow,1,""
+(\.|^)tech\.lgbt$,regex_allow,1,""
+(\.|^)youtube\.com$,regex_allow,1,""
+(\.|^)mikrojobs\.de$,regex_deny,1,""
